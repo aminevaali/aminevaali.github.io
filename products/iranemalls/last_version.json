@@ -1,5 +1,6 @@
 {
-	"versionName":"0.5.2",
-	"versionCode":10,
-	"forced":false
+	"last_version":1,
+	"last_version_description":"نسخه اول اپلیکیشن ایران ایمالز",
+	"last_version_link":"https://iranemalls.com/",
+	"decrepated_version":0
 }
